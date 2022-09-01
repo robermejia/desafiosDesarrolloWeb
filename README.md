@@ -26,7 +26,7 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 
 ## Enlace de Proyecto desde GitHub Pages
 
-- [Enlace de proyecto](https://robertomejiacollazos.github.io/PROYECTO-CODERHOUSE/)
+- [Enlace de proyecto](https://robermejia.github.io/desafiosDesarrolloWeb/)
 
 ## Enlace de Proyecto desde Netlify
 

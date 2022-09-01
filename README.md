@@ -14,9 +14,15 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 - Git/GitHub
 - Filezilla
 
+
+
 ## Autor
 
 - [Roberto Agustín Mejía Collazos](https://github.com/RobertoMejiaCollazos)
+
+## Desafios
+
+- [Enlace de proyecto](https://github.com/robermejia/desafiosDesarrolloWeb/tree/main/DESAFIOS)
 
 ## Enlace de Proyecto desde GitHub Pages
 

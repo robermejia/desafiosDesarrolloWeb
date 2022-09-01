@@ -1,0 +1,11 @@
+El header con los cambios realizados me quedan asi:
+https://i.ibb.co/K9nLb0X/2022-04-03-10-36-32-App-Main-Form.png
+como podría hacer para que quede asi sin usar los position:
+https://ibb.co/mbj30M2
+
+El footer me queda asi con los cambios:
+https://i.ibb.co/xfqDwvF/screenshot-20220403-103608.png
+Como puedo hacer para que me quede asi sin position:
+https://ibb.co/WP04zQN
+
+Nota: tengo la duda si mi diseño de wireframe tiene buena ux por lo pronto le he agregado cambios a mi codigo de la primera entrega del proyecto final donde pongo la sección de presentación a todos lo .html estara bien si lo hago asi, yo lo veo bien pero como me corrigio el header dude como puedo hacer para que me quede como estaba antes sin aplicar position. 

@@ -2,6 +2,10 @@
 
 Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 
+## Enlace de Proyecto desde GitHub Pages (main)
+
+- [Enlace de proyecto](https://robermejia.github.io/desafiosDesarrolloWeb/)
+
 ## Construido con
 
 - Visual Studio Code
@@ -14,24 +18,14 @@ Proyecto subido el día 19/04/2022 para el curso de Desarrollo Web.
 - Git/GitHub
 - Filezilla
 
-
-
-## Autor
-
-- [Roberto Agustín Mejía Collazos](https://github.com/RobertoMejiaCollazos)
-
 ## Desafios
 
-- [Enlace de todos los desafios](https://github.com/robermejia/desafiosDesarrolloWeb/tree/main/DESAFIOS)
-
-## Enlace de Proyecto desde GitHub Pages
-
-- [Enlace de proyecto](https://robermejia.github.io/desafiosDesarrolloWeb/)
-
-## Enlace de Proyecto desde Netlify
-
-- [Enlace de proyecto](https://robertomejia-proyecto-coderhouse.netlify.app/)
+- [Enlace de todos los desafios](https://github.com/robermejia/desafiosDesarrolloWeb/tree/desafios)
 
 ## Enlace de Proyecto desde 000WebHost
 
 - [Enlace de proyecto](https://proyecto--coderhouse.000webhostapp.com/)
+
+## Autor
+
+- [Roberto Agustín Mejía Collazos](https://github.com/robermejia)
